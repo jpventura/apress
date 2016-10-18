@@ -36,6 +36,8 @@
 
   1. [Essential TypeScript](./books/9781484249789/README.md)
 
+## Contributions
+
 ## [Changelog](docs/CHANGELOG.md)
 Require to setup a predefined changelog script using the project main language.
 
