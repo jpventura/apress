@@ -1,0 +1,31 @@
+{
+    "env": {
+        "jest": true
+    },
+    "extends": [
+        "airbnb-base"
+    ],
+    "ignorePatterns": [
+        "web-build/*"
+    ],
+    "globals": {
+        "__CLIENT__": true,
+        "__SERVER__": true,
+        "__DEV__": true
+    },
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 2020,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "@typescript-eslint",
+        "import"
+    ],
+    "root": true,
+    "rules": {
+    }
+}
