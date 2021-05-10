@@ -35,6 +35,7 @@
 ## Books
 
   1. [Essential TypeScript](./books/9781484249789/README.md)
+  2. [Python Algorithms, by Magnus Lie Hetland (2014)](./books/9781484200568/README.md)
 
 ## Contributions
 
